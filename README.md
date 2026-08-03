@@ -94,12 +94,22 @@ This project strengthened skills in:
 * API Integration
 * Data Preprocessing
 * Python Development
-
-<img width="1365" height="606" alt="Screenshot 2026-08-03 201036" src="https://github.com/user-attachments/assets/bb5a6b04-9bd5-4148-bcb5-4521e81bdc03" />
-
 * Database Management
 * Full Application Deployment
 
 ## Author
 
 Sripadma
+
+<img width="1333" height="705" alt="Screenshot 2025-12-10 134636" src="https://github.com/user-attachments/assets/6a552be6-7449-4837-9de6-e013fab45a90" />
+
+<img width="594" height="355" alt="Screenshot 2025-12-24 215531" src="https://github.com/user-attachments/assets/1dde7850-09bf-4384-b7c1-00f6963be757" />
+
+<img width="590" height="328" alt="Screenshot 2025-12-24 215544" src="https://github.com/user-attachments/assets/c2c6b5d7-f144-4ba0-9307-0800d172d782" />
+
+<img width="1326" height="660" alt="Screenshot 2025-12-10 142227" src="https://github.com/user-attachments/assets/bf67efd3-e311-429a-bf6f-f54ae4015d11" />
+
+<img width="593" height="340" alt="Screenshot 2025-12-24 215554" src="https://github.com/user-attachments/assets/1a5e85b3-b125-44a8-a174-a8eaf6291fd3" />
+
+
+<img width="1308" height="652" alt="Screenshot 2025-12-10 132632" src="https://github.com/user-attachments/assets/70ae66cf-fbcd-4c76-bd74-d9f59e64c08b" />
