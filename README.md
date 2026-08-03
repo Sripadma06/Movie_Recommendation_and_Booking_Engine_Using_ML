@@ -94,6 +94,9 @@ This project strengthened skills in:
 * API Integration
 * Data Preprocessing
 * Python Development
+
+<img width="1365" height="606" alt="Screenshot 2026-08-03 201036" src="https://github.com/user-attachments/assets/bb5a6b04-9bd5-4148-bcb5-4521e81bdc03" />
+
 * Database Management
 * Full Application Deployment
 
